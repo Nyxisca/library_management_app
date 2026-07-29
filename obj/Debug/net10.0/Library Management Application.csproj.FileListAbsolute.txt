@@ -1,0 +1,14 @@
+C:\Users\Me\OneDrive\Desktop\Cyber Space\Microsoft C# Learning Path\Phase 3 (boolean, switch-case, do while)\Library Management Application\bin\Debug\net10.0\Library Management Application.exe
+C:\Users\Me\OneDrive\Desktop\Cyber Space\Microsoft C# Learning Path\Phase 3 (boolean, switch-case, do while)\Library Management Application\bin\Debug\net10.0\Library Management Application.deps.json
+C:\Users\Me\OneDrive\Desktop\Cyber Space\Microsoft C# Learning Path\Phase 3 (boolean, switch-case, do while)\Library Management Application\bin\Debug\net10.0\Library Management Application.runtimeconfig.json
+C:\Users\Me\OneDrive\Desktop\Cyber Space\Microsoft C# Learning Path\Phase 3 (boolean, switch-case, do while)\Library Management Application\bin\Debug\net10.0\Library Management Application.dll
+C:\Users\Me\OneDrive\Desktop\Cyber Space\Microsoft C# Learning Path\Phase 3 (boolean, switch-case, do while)\Library Management Application\bin\Debug\net10.0\Library Management Application.pdb
+C:\Users\Me\OneDrive\Desktop\Cyber Space\Microsoft C# Learning Path\Phase 3 (boolean, switch-case, do while)\Library Management Application\obj\Debug\net10.0\Library Management Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Me\OneDrive\Desktop\Cyber Space\Microsoft C# Learning Path\Phase 3 (boolean, switch-case, do while)\Library Management Application\obj\Debug\net10.0\Library Management Application.AssemblyInfoInputs.cache
+C:\Users\Me\OneDrive\Desktop\Cyber Space\Microsoft C# Learning Path\Phase 3 (boolean, switch-case, do while)\Library Management Application\obj\Debug\net10.0\Library Management Application.AssemblyInfo.cs
+C:\Users\Me\OneDrive\Desktop\Cyber Space\Microsoft C# Learning Path\Phase 3 (boolean, switch-case, do while)\Library Management Application\obj\Debug\net10.0\Library Management Application.csproj.CoreCompileInputs.cache
+C:\Users\Me\OneDrive\Desktop\Cyber Space\Microsoft C# Learning Path\Phase 3 (boolean, switch-case, do while)\Library Management Application\obj\Debug\net10.0\Library Management Application.dll
+C:\Users\Me\OneDrive\Desktop\Cyber Space\Microsoft C# Learning Path\Phase 3 (boolean, switch-case, do while)\Library Management Application\obj\Debug\net10.0\refint\Library Management Application.dll
+C:\Users\Me\OneDrive\Desktop\Cyber Space\Microsoft C# Learning Path\Phase 3 (boolean, switch-case, do while)\Library Management Application\obj\Debug\net10.0\Library Management Application.pdb
+C:\Users\Me\OneDrive\Desktop\Cyber Space\Microsoft C# Learning Path\Phase 3 (boolean, switch-case, do while)\Library Management Application\obj\Debug\net10.0\Library Management Application.genruntimeconfig.cache
+C:\Users\Me\OneDrive\Desktop\Cyber Space\Microsoft C# Learning Path\Phase 3 (boolean, switch-case, do while)\Library Management Application\obj\Debug\net10.0\ref\Library Management Application.dll

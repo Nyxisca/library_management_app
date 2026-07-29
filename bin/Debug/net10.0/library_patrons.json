@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "John Doe",
+    "LibraryCardNumber": 101,
+    "BorrowedBooks": []
+  },
+  {
+    "Name": "Chuwuemeka David",
+    "LibraryCardNumber": 102,
+    "BorrowedBooks": []
+  },
+  {
+    "Name": "Francisca Okorie",
+    "LibraryCardNumber": 103,
+    "BorrowedBooks": []
+  }
+]

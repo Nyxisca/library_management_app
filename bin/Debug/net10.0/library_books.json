@@ -1,0 +1,22 @@
+[
+  {
+    "Title": "How To Kill A Mockingbird",
+    "Author": "Harper Lee",
+    "IsBorrowed": false
+  },
+  {
+    "Title": "1984",
+    "Author": "George Orwell",
+    "IsBorrowed": false
+  },
+  {
+    "Title": "Things Fall Apart",
+    "Author": "Chinua Achebe",
+    "IsBorrowed": false
+  },
+  {
+    "Title": "Francisca Book",
+    "Author": "Francisca O",
+    "IsBorrowed": false
+  }
+]
